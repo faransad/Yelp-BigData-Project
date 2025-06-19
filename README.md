@@ -1,6 +1,6 @@
 # Yelp Big Data Sentiment Analysis Project
 
-This project is part of a university assignment focused on large-scale data processing and machine learning using the **Yelp Open Dataset.
+This project is part of a university assignment focused on large-scale data processing and machine learning using the Yelp Open Dataset.
 
 ---
 
@@ -27,9 +27,9 @@ This project is part of a university assignment focused on large-scale data proc
 
 2. Data Analysis with Spark & Hive
 - Performed three key analytical queries using both engines:
-  - Sentiment distribution
-  - Average stars per city
-  - Business review count distribution
+- Sentiment distribution
+- Average stars per city
+- Business review count distribution
 - Compared performance and results between Spark and Hive
 
 3. Sentiment Classification (ML)
@@ -55,7 +55,7 @@ All major outputs and visual results are included in the `/screenshots` folder.
 
 ---
 
-## 📌 Notes
+📌 Notes
 
 This project was developed entirely in Google Colab, using Spark and Hive deployed via GCP Dataproc. The `.ipynb` file contains the complete, reproducible code.
 
