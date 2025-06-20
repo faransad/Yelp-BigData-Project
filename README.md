@@ -44,7 +44,7 @@ This project is part of a university assignment focused on large-scale data proc
 
 - Source: [Yelp Open Dataset](https://www.yelp.com/dataset)
 - Files used: `business.json`, `review.json`
-- Data Size: ~5M reviews; cleaned subset stored as 41 Parquet files on GCS
+- Data Size: ~5M reviews; cleaned subset stored as 42 Parquet files on GCS
 
 ---
 
