@@ -23,10 +23,10 @@ This project is part of a university assignment focused on large-scale data proc
 1. Data Ingestion & Cleaning
 - Loaded `business.json` and `review.json` from GCS using PySpark
 - Joined and cleaned data, filtered for restaurants
-- Saved the cleaned dataset as **Parquet**
+- Saved the cleaned dataset as "Parquet"
 
 2. Data Analysis with Spark & Hive
-- Performed three key analytical queries using both engines:
+- Performed three key analytical queries using both engines
 - Sentiment distribution
 - Average stars per city
 - Business review count distribution
@@ -41,12 +41,6 @@ This project is part of a university assignment focused on large-scale data proc
 
 ---
 
-📝 Screenshots
-
-All major outputs and visual results are included in the `/screenshots` folder.
-
----
-
 📊 Dataset
 
 - Source: [Yelp Open Dataset](https://www.yelp.com/dataset)
@@ -58,10 +52,3 @@ All major outputs and visual results are included in the `/screenshots` folder.
 📌 Notes
 
 This project was developed entirely in Google Colab, using Spark and Hive deployed via GCP Dataproc. The `.ipynb` file contains the complete, reproducible code.
-
----
-
-👤 Author
-
-Student project for academic purposes.
-Feel free to explore or fork the repository if you find it useful.
