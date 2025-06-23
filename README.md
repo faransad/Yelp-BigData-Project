@@ -13,12 +13,14 @@ This project was developed as part of a university assignment focused on large-s
 - Python 3.x
 - Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
 
---
+---
+
 📁 Project Structure
 
-	•	yelp_sentiment_pipline.ipynb: Complete and reproducible code in Google Colab (Spark + Python)
-	•	yelp_analysis_hive.sql: Hive queries used for analytical tasks
-	•	screenshots/: Selected output screenshots and visualizations
+- yelp_sentiment_pipline.ipynb: Complete and reproducible code in Google Colab (Spark + Python)
+- yelp_analysis_hive.sql: Hive queries used for analytical tasks
+- screenshots/: Selected output screenshots and visualizations
+
 ---
 
 📌 Key Tasks Performed
@@ -63,6 +65,6 @@ A collection of output screenshots is included in the screenshots/ folder for re
 
 📌 Notes
 
-	•	The project was implemented entirely in Google Colab, using Apache Spark and Hive deployed on Google Cloud Dataproc
-	•	All processing, analysis, and model training were performed in the cloud
-	•	Outputs were exported to GCS for visualization and reporting
+- The project was implemented entirely in Google Colab, using Apache Spark and Hive deployed on Google Cloud Dataproc
+- All processing, analysis, and model training were performed in the cloud
+- Outputs were exported to GCS for visualization and reporting
