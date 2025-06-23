@@ -63,7 +63,7 @@ A collection of output screenshots is included in the screenshots/ folder for re
 
 ---
 
-📌 Notes
+📝 Notes
 
 - The project was implemented entirely in Google Colab, using Apache Spark and Hive deployed on Google Cloud Dataproc
 - All processing, analysis, and model training were performed in the cloud
