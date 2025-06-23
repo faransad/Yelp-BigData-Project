@@ -1,6 +1,7 @@
 Yelp Big Data Sentiment Analysis Project
 
 This project was developed as part of a university assignment focused on large-scale data processing and sentiment classification using the Yelp Open Dataset. It demonstrates how distributed systems and machine learning can be integrated to analyze millions of customer reviews.
+
 ---
 
 🔧 Technologies & Tools
